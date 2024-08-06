@@ -11,3 +11,6 @@ DB_NAME=Name de la base de datos<br>
 PORT=Port en el que se estara ejecutando nuestro backen<br>
 3- npm start<br>
 
+### Descripcion De La Prueba
+
+<a href="https://moodle.riwi.io/pluginfile.php/4516/mod_resource/content/0/Prueba%20desempe%C3%B1o%20nodeJS-Typescript.docx.pdf">Link</a>
