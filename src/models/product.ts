@@ -43,7 +43,7 @@ export class Product extends Model<Product> {
         type: DataType.INTEGER,
         allowNull: false,
     })
-    stock!: string;
+    stock!: number;
 
     @HasMany(() => ProductCart)
     productCart!: ProductCart[];

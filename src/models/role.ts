@@ -11,7 +11,7 @@ import { User } from "./";
   
   @Table({
     tableName: "roles",
-    timestamps: true,
+    timestamps: false,
   })
   export class Role extends Model {
     @PrimaryKey
